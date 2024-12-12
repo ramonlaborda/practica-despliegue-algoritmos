@@ -6,3 +6,5 @@ Image == 10.2.0
 wordcloud == 1.9.3
 numpy == 1.26.4
 mlflow == 2.19.0
+tensorflow == 2.12 
+transformers == 4.31
