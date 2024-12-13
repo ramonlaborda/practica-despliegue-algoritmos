@@ -1,6 +1,5 @@
 from transformers import pipeline
 
-# Cargar pipelines de Hugging Face
 sentiment_pipeline = pipeline("sentiment-analysis")
 translation_pipeline = pipeline("translation_en_to_fr")
 
